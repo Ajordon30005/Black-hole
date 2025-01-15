@@ -1,2 +1,2 @@
 # Black-hole
-Contains supporting images
+This repository Contains supporting images from, "Re-Visualizing Black Hole Images: Underlying-Harmonic Data Analysis of EHT's M87 Picture.
